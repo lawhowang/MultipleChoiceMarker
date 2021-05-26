@@ -1,0 +1,3 @@
+C:\Users\lawho\Desktop\MultipleChoiceMarker\MultipleChoiceMarker\bin\Debug\MultipleChoiceMarker.exe.config
+C:\Users\lawho\Desktop\MultipleChoiceMarker\MultipleChoiceMarker\obj\Debug\MultipleChoiceMarker.exe
+C:\Users\lawho\Desktop\MultipleChoiceMarker\MultipleChoiceMarker\obj\Debug\MultipleChoiceMarker.pdb
